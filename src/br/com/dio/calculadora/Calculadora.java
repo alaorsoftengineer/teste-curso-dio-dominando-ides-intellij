@@ -25,6 +25,7 @@ public class Calculadora {
         System.out.println("Somar: " + somar);
         System.out.println("Subtrair: " + subtrair);
         System.out.println("Multiplicar: " + multiplicar);
+        System.out.println("Dividir: " + dividir);
 
 
     }
